@@ -18,7 +18,7 @@ My dream job would be as a Full-Stack developer. Since I was ten years old, I ha
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,javascript,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,javascript,typescript,react,nodejs,java)](https://skillicons.dev)
 
 
 ## 💼 Contact
