@@ -13,8 +13,8 @@ My dream job would be as a Full-Stack developer. Since I was ten years old, I ha
 
 
 ## 👨🏼‍💻 Education
-- [2017 - 2022] PRINCESS CHULABHORN SCIENCE HIGH SCHOOL PHITSANULOK
-- [2023 - Present] CHULALONGKORN UNIVERSITY {Bachelor of Engineering Program in Computer Engineering and Digital Technology}
+- [2017 - 2022] PRINCESS CHULABHORN SCIENCE HIGH SCHOOL PHITSANULOK {Sciences and Mathematics}
+- [2023 - Present] CHULALONGKORN UNIVERSITY {Computer Engineering and Digital Technology}
 
 
 ## 🛠 Skills
@@ -23,7 +23,6 @@ My dream job would be as a Full-Stack developer. Since I was ten years old, I ha
 
 ## 💼 Contact
 TEL : 0634364481
-
 Email : saroot.nae@gmail.com
 
 
