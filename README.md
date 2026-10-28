@@ -47,7 +47,30 @@ QA Engineer with hands-on experience in manual, automated, API, and performance 
 - **Process:** Agile/Scrum, SDLC, STLC, Defect Life Cycle, Code Review, Technical Documentation
 
 ## 🏆 Projects & Achievements
-- **Human Trafficking Case Reporting System** · with TATIP — secure reporting platform with anonymous submissions, dashboards, role-based access, and AI case matching.
-- **BPF-Best** · CU Coding Challenge 2024, 🥈 1st Runner-up — fund-comparison platform with filtering, search, and side-by-side views.
-- **Microsoft AI for Accessibility Hackathon 2024** · Finalist, Top 10 — "New Vision" assistive glasses for the blind.
-- **TESA Top Gun Rally #18** · 6th Place, Top Score in Hardware Programming — predictive-maintenance prototype analysing machine-sound data.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ Human Trafficking Case Reporting System</h3>
+<img src="https://img.shields.io/badge/Partner-TATIP-2E7D32?style=flat-square" alt="Partner: TATIP">
+<p>Secure web reporting platform — anonymous submissions, data dashboards, role-based access, and AI case matching.</p>
+</td>
+<td width="50%" valign="top">
+<h3>📊 BPF-Best</h3>
+<img src="https://img.shields.io/badge/CU%20Coding%20Challenge%202024-1st%20Runner--up-C0C0C0?style=flat-square" alt="CU Coding Challenge 2024: 1st Runner-up">
+<p>Fund-comparison platform with filtering, search, and side-by-side data views, with verified calculation accuracy.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>👓 New Vision</h3>
+<img src="https://img.shields.io/badge/Microsoft%20AI%20for%20Accessibility%20Hackathon%202024-Top%2010%20Finalist-0078D4?style=flat-square" alt="Microsoft AI for Accessibility Hackathon 2024: Top 10 Finalist">
+<p>Assistive glasses for the blind, designed with a user-centered approach to requirements and interaction.</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚙️ Predictive Maintenance Prototype</h3>
+<img src="https://img.shields.io/badge/TESA%20Top%20Gun%20Rally%20%2318-6th%20Place%20%C2%B7%20Top%20HW%20Score-E67E22?style=flat-square" alt="TESA Top Gun Rally #18: 6th Place · Top HW Score">
+<p>Hardware–software prototype that turns machine-sound data into readable maintenance insights.</p>
+</td>
+</tr>
+</table>
