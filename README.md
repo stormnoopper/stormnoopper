@@ -35,6 +35,5 @@ I test like a developer and build like a tester — Playwright, k6, Robot Framew
 
 <div align="center">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormnoopper&layout=compact&hide=makefile&theme=github_dark&hide_border=true&bg_color=161b22" alt="Top languages" height="150">
 <a href="https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"><img src="assets/now-playing.svg" alt="On repeat: Earrings by Malcolm Todd" height="150"></a>
 </div>
