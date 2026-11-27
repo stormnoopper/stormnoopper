@@ -13,7 +13,7 @@ I test like a developer and build like a tester — Playwright, k6, Robot Framew
 </div>
 
 ### Now
-- 🧪 QA Engineer at **ANYVET**
+- 🚀 CEO of **Volcanap Softwork**
 - 🎓 Computer Engineering & Digital Technology, **Chulalongkorn University**
 
 ### Toolbox
